@@ -3,7 +3,7 @@
 [![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=github&utm_medium=referral&utm_content=buy-proxy-with-paypal&utm_campaign=banner&groupid=877)
 
 <a href="https://oxylabs.io/?utm_source=github&utm_medium=referral&utm_content=buy-proxy-with-paypal&utm_campaign=banner&groupid=877"><img src="https://img.shields.io/badge/🚀_Get_Started-FF6B35?style=for-the-badge" alt="Get started"></a>
-<a href="https://developers.oxylabs.io"><img src="https://img.shields.io/badge/📚_Documentation-4A90E2?style=for-the-badge" alt="Documentation"></a>
+<a href="https://developers.oxylabs.io/?utm_source=github&utm_medium=referral&utm_content=buy-proxy-with-paypal&utm_campaign=banner&groupid=877"><img src="https://img.shields.io/badge/📚_Documentation-4A90E2?style=for-the-badge" alt="Documentation"></a>
 <a href="https://dashboard.oxylabs.io"><img src="https://img.shields.io/badge/📊_Dashboard-2EA44F?style=for-the-badge" alt="Dashboard"></a>
 <a href="https://discord.gg/Pds3gBmKMH"><img src="https://img.shields.io/badge/💬_Discord-5865F2?style=for-the-badge" alt="Discord"></a>
 <a href="https://www.youtube.com/@oxylabs"><img src="https://img.shields.io/badge/▶️_YouTube-FF0000?style=for-the-badge" alt="YouTube"></a>
@@ -14,7 +14,7 @@
   
 ## Quick and easy integration
 
-Purchase proxies with PayPal and enjoy quick and seamless integration. You can also easily integrate our proxies with third-party software; visit our [documentation](https://developers.oxylabs.io/?_gl=1*1tqprww*_gcl_aw*R0NMLjE3MDg2ODkyNzMuQ2owS0NRaUFvZUd1QmhDQkFSSXNBR2ZLWTd3QXVHdjRFWlV6NkNYZmYwaEhUZFJhdDZ1eFJyVDV0a2R1ZlBUNkFZVTBJUHZLN01tMVZOWWFBbERQRUFMd193Y0I.*_gcl_au*MTc2MDgxNTAwNC4xNzA1OTI3MzM0) for more details.
+Purchase proxies with PayPal and enjoy quick and seamless integration. You can also easily integrate our proxies with third-party software; visit our [documentation](https://developers.oxylabs.io/?utm_source=github&utm_medium=referral&utm_content=buy-proxy-with-paypal&groupid=877) for more details.
 
 ```
 curl -x 1.2.3.4.:60000 -U "USER:PASS" https://ip.oxylabs.io/location
